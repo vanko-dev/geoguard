@@ -1,4 +1,4 @@
-import { azLicense } from './license';
+import { azLicense } from './license.js';
 
 document
   .querySelector('#start-az')
